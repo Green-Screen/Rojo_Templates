@@ -1,0 +1,28 @@
+{
+  "name": "Test",
+  "emitLegacyScripts": false,
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$path": "src/shared",
+
+      "ClientSRC": {
+        "$path": "src/client"
+      },
+
+      "Packages": {
+        "$path": "Packages"
+      }
+    },
+
+    "ServerScriptService": {
+      "ServerSRC": {
+        "$path": "src/server"
+      },
+      "Packages": {
+        "$path": "ServerPackages"
+      }
+    }
+  }
+}
