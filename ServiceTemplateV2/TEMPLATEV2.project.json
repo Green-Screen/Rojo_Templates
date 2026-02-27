@@ -1,0 +1,20 @@
+{
+  "name": "TEMPLATESERVICEV2",
+  "emitLegacyScripts": false,
+  
+  
+  "tree": {
+    "$ignoreUnknownInstances": true,
+    "$className": "DataModel",
+
+    "Workspace": {
+      "TEMPLATESERVICEV2": {
+        "$className": "Folder",
+        
+          "TEMPLATESERVICEV2": {
+          "$path": "src"
+        }
+      }
+    }
+  }
+}
